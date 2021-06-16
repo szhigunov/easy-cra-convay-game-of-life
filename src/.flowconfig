@@ -1,0 +1,12 @@
+[ignore]
+
+[include]
+./App.js
+
+[libs]
+/flow-typed
+[lints]
+
+[options]
+
+[strict]

@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+  will-change: background;
+  transform: translate3d(0,0,0);
+}
+
+.active {
+  background: black;
+}
+
+.dead {
+  background: white;
+}
